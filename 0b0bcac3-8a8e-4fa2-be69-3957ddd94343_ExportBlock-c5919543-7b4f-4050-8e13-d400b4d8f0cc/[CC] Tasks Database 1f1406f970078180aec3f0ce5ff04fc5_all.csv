@@ -1,0 +1,492 @@
+﻿Task,Delegation,Done,Due Date,Owner,Recurring?,Related to Projects Database
+多語言翻譯 - 資產管理&基本設定管理,,Yes,05/26/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+多語言翻譯 - 認證與授權&採購管理,,Yes,05/27/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+採購單表頭廠區名稱選項功能,,Yes,05/29/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+多語言翻譯 - 採購單,,Yes,05/26/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+多語言翻譯 - 零件驗收單 Parts Acceptance Form,,Yes,05/28/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+詢問 EMMA 關於 IDM2 資產編號錯誤問題,,Yes,05/26/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+更改採購單 - 變為一頁呈現 10 筆資料,,Yes,05/27/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[DMS] June Monthly Meeting,,Yes,06/02/2025 8:30 (GMT+8),Keith LI,No,
+多語言翻譯 - 調整 UploadPage 顯示 Table 方式,,Yes,05/28/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+多語言翻譯 - 調整顯示 Table 方式 BasicPropertiesPage - Production Line & BasicPropertiesPage - Asset Status,,Yes,05/28/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[DMS] Weekly Meeting,,No,11/10/2025 16:00 (GMT+8),Keith LI,Yes,
+多語言翻譯 - 零件領用單 Parts Pickup Form,,Yes,05/28/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+主選單換成 English 後的字形大小更改,,Yes,05/26/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+"更近 IDM2 EMMA 切割機無法連線狀況 ",,Yes,05/28/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+李睿晟 第一階段 HR 面試,,Yes,05/29/2025 11:00 (GMT+8),Keith LI,No,
+"[ECL] Essential ",,Yes,05/26/2025 21:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+跟 Lilian 講新的面試者 Jimmy 可以找來面試,,Yes,05/28/2025,Keith LI,No,
+"[Weekly] Make a weekly English study plan ",,No,11/09/2025,Keith LI,Yes,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,05/28/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+"[ECL] Essential ",,Yes,05/26/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,06/01/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+統一稼動率接收格式,,Yes,06/03/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+多語言翻譯 - 確認整體排版&顯示問題,,Yes,05/28/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Conflunt 公司會議,,Yes,06/11/2025 14:00 (GMT+8) → 15:30,Keith LI,No,
+Bugfix EquipmentPage 資料無法點選,,Yes,05/27/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+SSO Fixbug,,Yes,05/28/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+更改採購單寬度大小適應 10 筆資料一頁面,,Yes,05/27/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+多語言翻譯 - 資產驗收單,,Yes,06/02/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+規劃報價單查詢功能,,Yes,06/02/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+規劃 Azure AI 學習的課程要多久,,Yes,05/28/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+將表單都新增上 Try Catch,,Yes,05/29/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[Weekly] GBOS 稼動率過高問題,,No,11/06/2025,Keith LI,Yes,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+[Weekly] CSW6 IoT稼動率追蹤,,Yes,08/22/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"[Weekly] 更近 IDM2 EMMA 切割機無法顯示資產編號狀況 ",,Yes,07/14/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"https://www.notion.so/1215-0-1-YouTube-Chill-ba38fad105fe456b9a48c2821334bcfb?pvs=21 ",,Yes,05/29/2025,Keith LI,No,
+確認湖南各廠區網路連接進度,,Yes,05/29/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+IDM2 EMMA 機台傳輸資產編碼問題,,Yes,05/30/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+Fix 採購單表頭、日期、採購頁面多語言顯示錯誤,,Yes,05/29/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[BUG] WarehousePage Dialog 選取消也會跑出儲存成功,,Yes,05/29/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+"新增 Asset HistoryView & OpexView 的查詢匯出頁面  ",,Yes,06/02/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+將 AssetExport 頁面的搜尋欄位補齊,,Yes,06/20/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[Weekly] 湖南廠區 IoT 稼動率,,Yes,10/13/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+[Weekly] CYW IoT 稼動率追蹤,,Yes,08/22/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+設定廖顧問電腦遠端桌面連線,,Yes,06/02/2025,Keith LI,No,
+"https://learn.microsoft.com/zh-tw/training/paths/get-started-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 1 ",,Yes,06/01/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/get-started-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 2,,Yes,06/02/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/get-started-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 3,,Yes,06/03/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/get-started-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 4,,Yes,06/04/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/modules/investigate-container-for-use-with-ai-services/ Partial 5,,Yes,06/05/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/create-computer-vision-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 4,,Yes,07/30/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/create-computer-vision-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 3,,Yes,07/30/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/create-computer-vision-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 2,,Yes,07/29/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/create-computer-vision-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 1,,Yes,07/28/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/develop-language-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 7,,Yes,07/20/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/develop-language-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 5,,Yes,07/03/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/develop-language-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 4,,Yes,07/01/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/develop-language-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 3,,Yes,06/30/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/develop-language-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 2,,Yes,06/29/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/develop-language-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 1,,Yes,06/29/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/implement-knowledge-mining-azure-cognitive-search/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 6,,Yes,06/27/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/implement-knowledge-mining-azure-cognitive-search/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 5,,Yes,06/26/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/implement-knowledge-mining-azure-cognitive-search/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 4,,Yes,06/25/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/implement-knowledge-mining-azure-cognitive-search/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 3,,Yes,06/24/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/implement-knowledge-mining-azure-cognitive-search/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 2,,Yes,06/23/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/implement-knowledge-mining-azure-cognitive-search/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 1,,Yes,06/16/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/extract-data-from-forms-document-intelligence/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 2,,Yes,06/14/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/extract-data-from-forms-document-intelligence/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 1,,Yes,06/13/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/develop-ai-solutions-azure-openai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 1,,Yes,06/08/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/develop-ai-solutions-azure-openai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 2,,Yes,06/09/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/credentials/certifications/azure-ai-engineer/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2&practice-assessment-type=certification,,Yes,08/30/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+週會時跟有星告知EMMA要改資產編號,,Yes,06/02/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"實作 HASO 裝到小米盒子 ",,Yes,06/01/2025 8:00 (GMT+8),Keith LI,No,
+確認資產 Snapshot 成功，或者手動先做一個 Snapshot,,Yes,05/31/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+調整 Snapshot 到每個月初 1 號 Catch,,Yes,06/03/2025,Keith LI,No,
+"[Chiao] 實作 HASO 裝到小米盒子 ",,Yes,08/01/2025 8:00 (GMT+8),Keith LI,No,
+[ECL] Essential,,Yes,06/05/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,06/03/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,06/04/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,06/06/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,06/08/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+核對稼動率判別方法,,Yes,06/04/2025,Keith LI,No,"[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21), [DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)"
+"資產說明會 IDM2 ",,Yes,06/02/2025,Keith LI,No,
+上傳 Monthly meeting video & audio,,Yes,06/02/2025,Keith LI,No,
+閒置報表 - 製作 BI 每月的閒置報表,,Yes,06/04/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[Weekly] IDM2 IoT 稼動率追蹤,,Yes,10/01/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+使用者角度去做藍圖規畫,,Yes,06/03/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+調整設備/零件申請單 “申請原因”,,Yes,06/03/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Release AsstHistoryPage & OpexPage / 發信通知新增兩項功能,,Yes,06/03/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+報價單查詢功能 - 將購買過的申請單項目列舉在單一頁面的 Table,,Yes,06/05/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+"報價單查詢功能 - In the last column, create a “Quotation” download button.",,Yes,06/06/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+https://lu.ma/jcnpmpdi?pk=g-IVK9SrbESprU3an Taipei 活動,,Yes,06/21/2025 14:30 (GMT+8),Keith LI,No,
+[Monthly] Check mine assets,,No,12/01/2025,Keith LI,Yes,
+看 Riff 區塊鏈相關文檔,,Yes,06/05/2025,Keith LI,No,
+[BUG] 採購單 No. 顯示問題,,Yes,06/03/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+規劃調撥通知功能 - 開發步驟,,No,11/10/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+將資產類別欄位的選擇固定到第三層才能選擇,,Yes,06/06/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+統一稼動率格式 - GBOS,,Yes,06/12/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"製作 BI 報表 (惠真姐月發報表) ",,Yes,06/18/2025,Keith LI,No,"[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21), [DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)"
+"統一稼動率格式 - 製作統一格式的 Table ",,Yes,06/09/2025,Keith LI,No,"[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21), [DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)"
+統一稼動率格式 - 祥益,,Yes,06/12/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+藍圖規畫 (FAS) - 調整內容 (2Hr),,Yes,06/04/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Release the PO company title select feature,,Yes,06/04/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+發信通知 FAS 更新的 Feature,,Yes,06/06/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+資產營運支出頁面新增 AssetCode 到頁面 Table,,Yes,06/05/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+處理廖小珍EMAL,,Yes,06/05/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[Monthly] Check Idle Assets Snapshot,,No,12/03/2025,Keith LI,Yes,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+閒置報表 - 製作 Monthly Idle Asset View,,Yes,06/04/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+修改 PO Form Table 長度,,Yes,06/05/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+新增月會影片上傳影片功能 - 開發步驟,,No,11/10/2025,Keith LI,No,
+[BUG] PO Form 顯示問題,,Yes,06/05/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+問 IDM2 電腦車運行情況,,Yes,06/05/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+CEY EMMA IoT,,Yes,06/06/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+追 CEY 租賃電腦車新增,,Yes,06/05/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+https://www.youtube.com/watch?v=aPzEnjl9rPE,,Yes,06/05/2025,Keith LI,No,
+詢問 IDM2 張勇 電腦車運行情況,,Yes,06/06/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+在調撥單匯出頁面新增複合式條件搜尋 Area & 完整調撥表格式,,Yes,06/09/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+處理 CEY 光博士機台資料接收,,Yes,06/17/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+藍圖規畫 (FAS) 畫圖,,Yes,06/06/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+https://learn.microsoft.com/zh-tw/training/modules/responsible-content-safety/ Partial 6,,Yes,06/05/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+CEY EMMA 到工廠設置設備,,Yes,06/06/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"改 Asset Form 的 Name 顯示 ",,Yes,06/20/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+改手動蒐集稼動率的 Plant 顯示,,Yes,06/06/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+閱讀：專案管理三角形：這是什麼，如何使用？ [2025] • Asana,,Yes,06/06/2025,Keith LI,No,
+嘉印印刷 WebAPI 製作 - 確認格式,,Yes,06/09/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+跟 APA 問 FAS 藍圖進度，有要更改嗎？,,Yes,06/09/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+"發信通知 FAS 更新的 Feature ",,Yes,06/10/2025 9:00 (GMT+8),Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+看嘉印IoT 接口文檔,,Yes,06/07/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+晚餐舅媽吃飯,,Yes,06/28/2025,Keith LI,No,
+CYY & CYW 祥益電腦車加裝 IoT 詢問,,Yes,06/12/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+Put this weekly’s OEE Lesson on calender,,Yes,06/09/2025,Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+規劃 OEE Education 到 End Date 課程,,No,,,No,
+姐&媽去奧地利 （開車）,,Yes,06/16/2025,Keith LI,No,
+[BUG] 批量移轉的顯示,,Yes,06/09/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+資產驗收功能 - 評鑑單,,Yes,06/10/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+調撥單 Form No. 欄位新增及顯示,,Yes,06/13/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+簡單用紙筆畫出 FAS Blueprint,,Yes,06/10/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+讀：ODM是什麼？解析ODM、OEM差異及代工流程，幫助做出合作決策,,Yes,06/10/2025,Keith LI,No,
+[Weekly] 追蹤 嘉印,,No,11/06/2025,Keith LI,Yes,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"更近 IDM2 EMMA 切割機無法顯示資產編號狀況 ",,Yes,06/10/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+IDM2 IoT 稼動率追蹤,,Yes,06/10/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+[ECL] Essential,,Yes,06/10/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,06/11/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+"[ECL] Essential ",,Yes,06/17/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,06/15/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+Change GBOS IoT Forwarded Project for  Cursor IDE,,Yes,06/14/2025,Keith LI,No,
+https://learn.microsoft.com/zh-tw/azure/ai-foundry/concepts/ai-resources,,Yes,06/15/2025,Keith LI,No,
+Azure 雲端 RI 報價,,Yes,06/10/2025,Keith LI,No,
+[BUG] 報價單表顯示錯誤 (繁體中文),,Yes,06/13/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+看 Jeff Prompt 儲存的影片,,Yes,06/13/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+測報價單搜尋頁面多檔案一次下載狀況,,Yes,06/13/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+IoT 看板會議,,Yes,06/10/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+[Weekly] 湖南廠區 看板 Follow Up,"[DMS] 劉憲春, [DMS] 念慈 (Daisy)",No,11/10/2025,Keith LI,Yes,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+[BUG] 申請單同步問題,,Yes,06/11/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+整理 Blockchain 影片筆記,,Yes,06/14/2025,Keith LI,No,
+https://www.notion.so/DMS-Confluent-20f406f9700780ae963efe363fb8fac2?pvs=21,,Yes,06/15/2025,Keith LI,No,
+https://www.notion.so/Modbus-Modbus-RTU-7a320488f4c74218b70ab285d2bcc8be?pvs=21,,Yes,06/14/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+https://www.notion.so/a6de66f330774c4d9471a244776db8ed?pvs=21,,Yes,06/17/2025,Keith LI,No,
+VDM EMMA 連接驗收,,Yes,06/13/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+處理申請流程部門權限問題,,Yes,06/30/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+發信通知新增資產評鑑表功能,,Yes,06/13/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+"自動化設備新增設備老舊無法連線的提示選項 ⇒ Next 目前自動化確認歸類 ",,Yes,06/16/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+改 View 顯示 Factory 變回 ShortName,,Yes,06/18/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+改 GBOS API 名稱,,Yes,06/27/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+觀察 GBOS 儲存在 Azure DC 情況,,Yes,06/13/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"觀察申請單有無自動更新 ",,Yes,06/13/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+https://learn.microsoft.com/zh-tw/training/modules/generate-images-azure-openai/Partial 3,,Yes,06/12/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+統一稼動率格式 - 祥益 (委派：念慈),,Yes,06/16/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"IDM2 EMMA 資產編號名稱更新 ",,Yes,06/16/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+報價單頁面新增廠區欄位顯示&搜尋 - 看內文,,Yes,06/27/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+"嘉印 - 開發 TEST API ",,Yes,06/16/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+處理 IoT BI 報表 (執行長),,Yes,06/13/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+[ECL] Life Situation,,Yes,06/18/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,06/23/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+FAS Roadmap - 開發時間規劃,,Yes,07/01/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+嘉印印刷 - 將 API 接收字串寫入 Log.txt,,Yes,06/18/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"嘉印印刷 - 添加接收資料 API ",,Yes,07/11/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/extract-data-from-forms-document-intelligence/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 3,,Yes,06/15/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/extract-data-from-forms-document-intelligence/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 4,,Yes,06/15/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+確認 GBOS 儲存在 Azure DC Log,,Yes,06/17/2025,Keith LI,No,
+當模特兒剪頭髮 - 老厝理髮廳 (FREE),,Yes,06/26/2025 19:00 (GMT+8),Keith LI,No,
+問匹克球場地怎麼借,,Yes,06/17/2025,Keith LI,No,
+[BUG] DbContext 多行序錯誤,,Yes,06/26/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+稼動率連接至周報 - 如何分各廠 IoT 及種類,,Yes,07/03/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+看求職履歷 - 早上,,Yes,06/17/2025,Keith LI,No,
+VDM 接祥益電腦車,,Yes,07/01/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+IDM1 祥益電腦車上稼動率 - 跟若萬確認,,Yes,07/08/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+讀：https://www.notion.so/a44ef1546dd24f0bb5b497e7193cd769?pvs=21,,Yes,06/20/2025,Keith LI,No,
+"整理資產分類 - 切割機 ",,Yes,06/23/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[DMS] Azure 5月雲端費用,,Yes,06/20/2025,Keith LI,No,
+看和椿 AGV 無人搬運車 現場廠商 下午,,Yes,06/24/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+調整接收 GBOS IoT 的 API 可 Insert 到 FineOps DC,,Yes,06/19/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+IDM2 EMMA 機台資料 廠商現場改資產編號,,Yes,06/19/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+查看 CEY GBOS 數據 - 下午,,Yes,06/18/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+資產選項在自動化機台才有稼動率選項 - 看內文,,Yes,06/18/2025,Keith LI,No,
+Andrew Classes - 幫大家開 GitLab 帳號,,Yes,06/25/2025,Keith LI,No,
+請盧暢做一個可以填寫自估價值得欄位 報表 供惠珍姐發給大家填寫,,Yes,06/18/2025,Keith LI,No,
+預告 7 月要加執行長 EMAIL 到每週二 閒置報表,,Yes,06/18/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+跟盧暢說七月要加執行長 MAIL 到週二 FineBi 閒置報表,,Yes,06/18/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+跟盧暢確認週二閒置報表有加上 Louis,,Yes,06/30/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+評鑑表在自動化機台新增 IoT 評鑑 - 看內文,,Yes,06/19/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+嘉印印刷 - 詢問測試狀況,,Yes,06/19/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+發信通知 FAS 更新 - 早上,,Yes,06/27/2025,Keith LI,No,
+FAS 清除 IDM2 EMMA * 30  & IDM1 GBOS * 4 重複,,Yes,06/19/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[Weekly] FineBi 報表 Review - 目前報表項目,,Yes,08/25/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+[DMS] 問家儀台灣生產設備機台的折舊方式,,Yes,06/20/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+詢問越南會計集團內帳資產折舊方式,,Yes,06/19/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Change GBOS IoT Forwarded Project for  Cursor IDE - 看內文,,Yes,06/29/2025,Keith LI,No,
+GBOS 數據確認 & 改 GBOS API 名稱 - 看內文,,Yes,07/18/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+FineBI 比賽報名,,Yes,06/22/2025,Keith LI,No,
+將OEE英文課放進 Tasks 當中,,Yes,06/23/2025,Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+AGV 初步了解以及研究 - 和椿,,Yes,06/23/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+EMMA 吳工到 IDM2,,Yes,07/01/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+FAS 新稱 Tags 類別欄位,,Yes,06/23/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[ECL] Essential,,Yes,07/07/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,06/25/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,06/27/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+"FineBI Idle Assets dashboard ",[DMS] 盧暢 (LC),Yes,06/25/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/develop-language-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 8,,Yes,07/20/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/develop-language-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 6,,Yes,07/05/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+去談接自動劃線機 IoT GBOS - GH1280,,Yes,09/01/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+折舊功能&閒置報表 - 通知惠珍姐要用我的閒置報表,,Yes,06/23/2025,Keith LI,No,
+折舊功能 - 當月攤提 - 攤提月數從驗收當月開始計算,,Yes,06/26/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+折舊功能 - 改殘值顯示名稱變為折舊帳面金額,,Yes,06/26/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+折舊功能 - 儲存月的閒置資產 Detail Snapshot 明細,,Yes,06/25/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+折舊功能 - 折舊方式提示,,Yes,06/25/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+"惠珍姐閒置月報 - BI 閒置報表拉購買日期欄位進去 ",,Yes,06/25/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+CSW6 小珍 油泵退貨 - 看內文,,Yes,06/25/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[BUG] Part Table UnitOfMeasurement 沒有一起儲存,,Yes,07/03/2025,Keith LI,No,
+改 Asset Acceptance Form 經辦人,,Yes,07/04/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[BUG] Asset Evaluation Form 時間顯示,,Yes,06/27/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+"處理 Azure RI ",,Yes,06/26/2025,Keith LI,No,
+大眾 AI 會議,,Yes,07/02/2025 14:00 (GMT+8),Keith LI,No,
+新增工廠別 Columne 至 PartPage - 內文,,Yes,07/10/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+中國區稼動率接收統整 - GBOS Forwarder,,Yes,07/08/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+月會影片上傳,,Yes,06/27/2025,Keith LI,No,
+"將 Asset Export 頁面 Asset Category 選項 Root & Sub Tree 皆可一起搜尋 ",,Yes,09/22/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+用 Claude Code reflector api and forward project,,Yes,06/29/2025,Keith LI,No,
+Azure RI 報價單簽名回寄,,Yes,06/30/2025,Keith LI,No,
+[ECL] Essential,,Yes,07/03/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,07/06/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,07/09/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,07/04/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+問緯謙 Azure RI USD Quotation,,Yes,07/01/2025,Keith LI,No,
+[BUG] PartPickupRecord UnitOfMeasurement Null,,Yes,07/09/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+更改稼動率轉發格式,,Yes,07/03/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+FAS 報告初版,,Yes,07/02/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FAS 報告 - Roadmap 重整,,Yes,07/01/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FAS 報告 - 重點及內容整理,,Yes,06/30/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/implement-knowledge-mining-azure-cognitive-search/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 7,,Yes,07/03/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/implement-knowledge-mining-azure-cognitive-search/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 8,,Yes,07/04/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+"資產 Opex、Capex 報表 ",,Yes,07/04/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FineBI 月閒置 - Convert AssetCode column to string type (EXCEL),[DMS] 盧暢 (LC),Yes,07/07/2025,Keith LI,No,
+FAS 經濟壽命分析 - CAPEX 報表 - 資產折舊 View 表,,Yes,07/08/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FAS 經濟壽命分析 - CAPEX 報表 - 報表實作,[DMS] 盧暢 (LC),Yes,07/08/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FAS 經濟壽命分析 - OPEX 報表 - 零件領用記錄 View 表,,Yes,07/08/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FAS 經濟壽命分析 - OPEX 報表 - 將 CAPEX 報表結合領用記錄,[DMS] 盧暢 (LC),Yes,07/08/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FAS 經濟壽命分析 - 設備經濟壽命分析BI報表 (CAPEX&OPEX),[DMS] 盧暢 (LC),Yes,07/10/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FineBi 報表 Review - 目前報表項目,,Yes,07/08/2025,Keith LI,No,"[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21), [DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)"
+[ECL] Essential,,Yes,07/08/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,07/10/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,07/13/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,07/23/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[Bi Competition] 競賽題目公布,,Yes,08/01/2025,Keith LI,No,FineBi 台灣地震分析 (analysis competition)  (https://www.notion.so/FineBi-analysis-competition-228406f9700780098232de446c11fcdd?pvs=21)
+[BI Competition] 作品提交,,Yes,08/04/2025 → 08/25/2025,Keith LI,No,FineBi 台灣地震分析 (analysis competition)  (https://www.notion.so/FineBi-analysis-competition-228406f9700780098232de446c11fcdd?pvs=21)
+[Bi Competition] 評選階段,,Yes,08/26/2025 → 08/29/2025,Keith LI,No,FineBi 台灣地震分析 (analysis competition)  (https://www.notion.so/FineBi-analysis-competition-228406f9700780098232de446c11fcdd?pvs=21)
+[Bi Competition] 得獎公布,,Yes,09/01/2025,Keith LI,No,FineBi 台灣地震分析 (analysis competition)  (https://www.notion.so/FineBi-analysis-competition-228406f9700780098232de446c11fcdd?pvs=21)
+FAS 經濟壽命分析 - 找 LC 一起來報告,,Yes,07/09/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Asset 折舊&攤提更新功能,,Yes,07/14/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Andrej Karpathly: Software is changing(again),,Yes,07/14/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+Complete FAS Presentation slice 3 note,,Yes,07/08/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+大綜 AI one page proposal report,,Yes,07/09/2025,Keith LI,No,
+Transfer NT68704 from CUBR to Fobun,,Yes,07/10/2025,Keith LI,No,
+[Monthly] Financial and investment review - Make Dashboard,,No,11/08/2025,Keith LI,Yes,
+看文章：https://www.notion.so/fd2dd7f9ae974d2bbf289793953eecbb?pvs=21,,Yes,07/13/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+嘉印印刷 - 做資料接收比對,,Yes,07/14/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+Review FAS VDM abnormal - Find all abnormal FAS data,,Yes,07/11/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Review FAS VDM abnormal - Review from VDM,,Yes,07/14/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Orb 虹膜掃描,,Yes,07/18/2025 19:30 (GMT+8),Keith LI,No,
+騰玉龍印刷 - C# Forward sample,,Yes,07/15/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+FAS 系統上VDM&CDI資料修正,,Yes,07/14/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[ECL] Essential,,Yes,07/15/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,07/20/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,07/17/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,07/11/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,07/16/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[Monthly] BI Exchange Rate Setting (View content),,No,12/01/2025,Keith LI,Yes,
+GBOS Forwarder - 將多餘字串過濾掉,,Yes,07/15/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+"Transfer 23,333 to Fubon stock",,Yes,09/08/2025,Keith LI,No,
+騰玉龍印刷 - 測試轉發數據,,Yes,07/22/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+群組通知,,Yes,07/15/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+改 FAS 上面金額的小數點兩位顯示,,Yes,07/25/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[BUG] Asset Export en 版資產產編號 Column 顯示錯誤,,Yes,10/08/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Transfer NT33000 to BitPro,,Yes,07/16/2025,Keith LI,No,
+查 CYW & CEY GBOS 機台,,Yes,07/16/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+https://www.notion.so/Named-Entity-Recognition-NER-in-Python-Pre-Trained-Custom-Models-YouTube-NeuralNine-f7fc447d0ce048be9a51638689df2658?pvs=21,,Yes,07/26/2025,Keith LI,No,
+"湖南廠區溫度計看板 ",,Yes,07/25/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+大綜 AI 報告,,Yes,07/21/2025,Keith LI,No,[DMS] AI Agent (https://www.notion.so/DMS-AI-Agent-22b406f9700780999811eb4d0a2307b0?pvs=21)
+零件領件新增線別選項 - 內文為出庫EXCEL,,Yes,07/21/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+追 IDM1 設備採購,,Yes,07/18/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Idle Asset Self - assessed value column,,Yes,07/31/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Rex 總工務部門別,[DMS] 瑞文 (Rex),Yes,07/18/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+跟代幫武談 GBOS 中國區可接 IoT 機台,,Yes,07/18/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"學習並整理 Types of AI Agents | IBM (https://www.notion.so/Types-of-AI-Agents-IBM-a805c1a1aa5544358e922f38797bb1de?pvs=21) ",,Yes,08/31/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+Asset Picture 儲存方式 - 看內文,,No,11/06/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+ACC 影響力論壇講座 (Online),,Yes,07/26/2025 13:00 (GMT+8) → 07/27/2025 18:00 (GMT+8),Keith LI,No,
+檢查 GBOS 資料同步,,Yes,07/24/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+零件領用記錄多新增一欄申請單的單位 “需求單位”,,Yes,07/28/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+騰玉龍印刷 - 稼動率數據解釋,,Yes,07/25/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+https://kafka.apache.org/quickstart - 看內文,,Yes,07/27/2025,Keith LI,No,Building a RAG software  (https://www.notion.so/Building-a-RAG-software-228406f9700780df907be05de09349ff?pvs=21)
+"微服務報告進度更新 ",,Yes,07/25/2025 10:30 (GMT+8) → 12:30,Keith LI,No,
+跟顧問談維修保養單 - 看內文,,Yes,07/25/2025,Keith LI,No,
+[ECL] Essential,,Yes,07/27/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,07/24/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,07/25/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/create-computer-vision-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 5,,Yes,08/09/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/create-computer-vision-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 6,,Yes,08/09/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+https://learn.microsoft.com/zh-tw/training/paths/create-computer-vision-solutions-azure-ai/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2 Partial 7,,Yes,08/10/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+零件領件頁面顯示申請部門,,Yes,07/28/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+嘉印印刷 - 更新接收稼動率 API 儲存 DB,,Yes,08/06/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+FAS 送廠維修設備保養功能,,No,11/10/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+鞋技中心與裕勝科技 - AI × 智慧製鞋應用導入實務應用研討會,,Yes,08/05/2025 13:30 (GMT+8) → 16:30,Keith LI,No,
+匯入 IDM1 新增資產,,Yes,07/29/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[ECL] Life Situation,,Yes,08/08/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,08/03/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,07/31/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+大綜 AI PPT 報告,,Yes,07/30/2025,Keith LI,No,[DMS] AI Agent (https://www.notion.so/DMS-AI-Agent-22b406f9700780999811eb4d0a2307b0?pvs=21)
+設備驗收單 - 設備名稱添加,,Yes,08/14/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+將報廢資產的採購金額從 BI Dashboard 篩選掉,,Yes,07/31/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FineBI 比賽開始會議,,Yes,08/01/2025 20:00 (GMT+8),Keith LI,No,FineBi 台灣地震分析 (analysis competition)  (https://www.notion.so/FineBi-analysis-competition-228406f9700780098232de446c11fcdd?pvs=21)
+FAS 嵌入以上線機台 FineBI 儀表板,,Yes,10/02/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+OEE A1 → A2 升級考試,,Yes,08/09/2025,Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+拉第一大題的儀錶板 Q1、Q2、Q4、Q7,,Yes,08/04/2025,Keith LI,No,FineBi 台灣地震分析 (analysis competition)  (https://www.notion.so/FineBi-analysis-competition-228406f9700780098232de446c11fcdd?pvs=21)
+Part Page 頁面搜尋框多一個 “請領狀態” 欄位選項,,Yes,08/25/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FAS 部門維護檢查追蹤,,Yes,08/08/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+零配件費用歸屬 -  領料的零件配到哪一個設備，並顯示組別,,Yes,08/06/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+零配件費用歸屬 -  領料單要包括 1 的內容,,Yes,08/11/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+零配件費用歸屬 - 領料紀錄(OPEX) 要加資產設備的組別,,Yes,08/12/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+零配件費用歸屬 - 領料紀錄 Class 加一欄 使用組別,,Yes,08/11/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+零配件費用歸屬 - 零件頁面部門搜尋框,,Yes,08/05/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+使用率分析 - 儀表板開啟廠區聯動,,Yes,08/12/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+CYW 資料更改 - 黃底為更改 - 看內文,,Yes,08/08/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+處理 CDT 保管報們更改,,Yes,08/07/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+"IoT API 接收專案新增 Cursor Project Rules .mdc File ",,Yes,08/07/2025,Keith LI,No,"[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21), [DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)"
+"IoT API 更改嘉印 IoT 接收 API ",,Yes,08/08/2025,Keith LI,No,"[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21), [DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)"
+請盧暢與新人看廖顧問網路教學影片,,Yes,08/11/2025,Keith LI,No,
+零配件費用歸屬 - 更改資產保管部門; 新增紀錄;,,Yes,08/12/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+更改 FAS 資料 CYY,,Yes,08/12/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+First meeting,,Yes,08/01/2025,Keith LI,No,FineBi 台灣地震分析 (analysis competition)  (https://www.notion.so/FineBi-analysis-competition-228406f9700780098232de446c11fcdd?pvs=21)
+第三次會議,,Yes,08/07/2025,Keith LI,No,FineBi 台灣地震分析 (analysis competition)  (https://www.notion.so/FineBi-analysis-competition-228406f9700780098232de446c11fcdd?pvs=21)
+Second meeting,,Yes,08/03/2025,Keith LI,No,FineBi 台灣地震分析 (analysis competition)  (https://www.notion.so/FineBi-analysis-competition-228406f9700780098232de446c11fcdd?pvs=21)
+Fourth meeting,,Yes,08/12/2025 20:00 (GMT+8),Keith LI,No,FineBi 台灣地震分析 (analysis competition)  (https://www.notion.so/FineBi-analysis-competition-228406f9700780098232de446c11fcdd?pvs=21)
+[ECL] Essential,,Yes,08/17/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,08/14/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,08/13/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+FAS 更新通知,,Yes,08/12/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+AI × 運動科技應用共創工作坊,,Yes,08/15/2025 13:30 (GMT+8),Keith LI,No,
+[BI competition] 完成簡報,,Yes,08/17/2025,Keith LI,No,FineBi 台灣地震分析 (analysis competition)  (https://www.notion.so/FineBi-analysis-competition-228406f9700780098232de446c11fcdd?pvs=21)
+Update KDM FAS assets Dept.,,Yes,08/18/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[ECL] Essential,,Yes,08/21/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,08/24/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+Receiving parts - Functional confirmation,,Yes,08/18/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+資產批量換部門功能 - 只能在同廠區,,Yes,08/18/2025,Keith LI,No,
+2025 MIZUNO馬拉松接力賽,,Yes,11/02/2025 0:00 (GMT+8),Keith LI,No,
+Receiving Parts - 新增按鈕 (Parts attach Assets dialog),,Yes,08/19/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+Receiving Parts - 送出並列印 or 列印,,Yes,08/25/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[BUG] 權限多部門設置問題 (湖南),,Yes,09/15/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+進豐切割機 - IoT 數據接收,,Yes,08/26/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+Canva 試用到期,,Yes,09/19/2025,Keith LI,No,
+檢查 IDM1 電腦車改新編號,,Yes,08/21/2025,Keith LI,No,
+廖顧問聯繫單,,Yes,08/22/2025,Keith LI,No,
+"Update SewingDailyData table where MachinCode = X109织带机 ",,Yes,08/25/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"IDM3 acceptance Sewing Machine ",,Yes,08/26/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+FAS Upgrade (Version & MCP NuGet) !! - 看內文,,Yes,08/31/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+騰玉龍 - 刷膠機設備查看,,Yes,08/26/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+2025/9/7 13:00 Gemini CLI 研究,,Yes,09/07/2025 13:00 (GMT+8),Keith LI,No,
+Review Essential,,Yes,08/27/2025,Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,08/31/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,08/28/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,08/20/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,08/30/2025 9:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,09/06/2025 9:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,08/29/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+嘉印 & GBOS Dashboard 整合,,Yes,08/29/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+Update GBOS BI Dashboard source,,Yes,09/03/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+測試 CSW6 的壓力器數據接收 .py,,Yes,09/02/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"Plan the IoT dashboard receiving daily data error in FineBi    ",,Yes,09/01/2025,Keith LI,No,"[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21), [DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)"
+https://learn.microsoft.com/zh-tw/credentials/certifications/azure-ai-engineer/?ns-enrollment-type=Collection&ns-enrollment-id=g7dnbr1m5gw5r2&practice-assessment-type=certification- Pedding,,Yes,10/27/2025,Keith LI,No,Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21)
+Review Azure AI Lessons before exam - view content,,Yes,09/06/2025,Keith LI,No,"Azure AI Engineer Beginning Course  (https://www.notion.so/Azure-AI-Engineer-Beginning-Course-201406f970078026b5c2df2384acd3b5?pvs=21), [DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)"
+First meeting,,Yes,09/01/2025 20:00 (GMT+8),Keith LI,No,Spaceship Titanic (Kaggle competition) (https://www.notion.so/Spaceship-Titanic-Kaggle-competition-262406f97007804abd4dfc0a576b42e2?pvs=21)
+Second meeting,,Yes,09/09/2025 20:00 (GMT+8),Keith LI,No,Spaceship Titanic (Kaggle competition) (https://www.notion.so/Spaceship-Titanic-Kaggle-competition-262406f97007804abd4dfc0a576b42e2?pvs=21)
+FAS - TPM 零配件庫存功能,,No,11/07/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+把 StatusController 併在 Aggrate,,Yes,09/04/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+[ECL] Life Situation,,Yes,09/05/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,09/14/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+零件領用單新增申請部門,,Yes,09/26/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+嘉印、騰宇龍 稼動率接收觀察,,Yes,09/05/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+FAS - 重新設計資產零件領用介面,,Yes,09/04/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FAS - 領用零件畫面布局調整,,Yes,09/05/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FAS - 零件領用資料串接&流程確認,,Yes,09/05/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+岳庭婚禮,,Yes,10/19/2025,Keith LI,No,
+FAS - 零件領用串接資料庫,,Yes,09/08/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+CSW6 氣壓數據接收方式,,Yes,09/19/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+進豐切割機 Data Forward,,Yes,09/24/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"Change Microsoft exam ",,Yes,09/08/2025,Keith LI,No,
+Install Kettle ETL to FineOps service  ⇒ Next 統一稼動率格式 - EMMA,,Yes,09/30/2025,Keith LI,No,
+[DMS] Design Realtime Dashboard,[DMS] 盧暢 (LC),No,11/10/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+網球比賽,,No,11/15/2025 8:00 (GMT+8),Keith LI,No,
+"[DMS] AI Proposal - Review and edit report   ",,Yes,09/11/2025,Keith LI,No,[DMS] AI Agent (https://www.notion.so/DMS-AI-Agent-22b406f9700780999811eb4d0a2307b0?pvs=21)
+[ECL] Essential,,Yes,09/07/2025 9:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,09/10/2025 9:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+Review IDM1 EMMA IoT data from FineBI dashboard - view content,,Yes,09/11/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+Research: How to write investment transaction records,,Yes,09/21/2025 9:00 (GMT+8),Keith LI,No,
+檢查稼動率總表資料有哪些設備已經接收稼動率 (EMMA ETL 同步完成之後),,Yes,10/09/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+資產選類別自動分配 Tag,,Yes,10/08/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+AI Proposal - 大綜跟碩網規格 去找 Server 價格,,Yes,09/15/2025,Keith LI,No,[DMS] AI Agent (https://www.notion.so/DMS-AI-Agent-22b406f9700780999811eb4d0a2307b0?pvs=21)
+"[DMS] 簡道雲 Sync 零件倉庫 ",,No,11/10/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+IDM3 GBOS API 傳輸問題,,Yes,09/15/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+[ECL] Essential,,Yes,09/21/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,09/18/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,09/17/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,09/19/2025 9:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+Microservice Homework,,Yes,09/21/2025,Keith LI,No,Microservice (https://www.notion.so/Microservice-26e406f97007807b8944ed876f8145bd?pvs=21)
+[DMS] 靜宜校友會 - 內文連結,,Yes,10/03/2025 16:30 (GMT+8) → 17:30,Keith LI,No,
+IoT 警示 - 共幾台可以上，有幾台沒動 (晨報),[DMS] 念慈 (Daisy),Yes,10/02/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+IDM3 VPN 網路傳輸問題,,Yes,09/17/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+Azure 發票 - 改完公司表頭的,,Yes,09/17/2025,Keith LI,No,
+調整嘉印沒辦法儲存 CSW6 工廠欄位原因,,Yes,09/18/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+新增資產系統導出頁面創建日期搜尋欄位,,Yes,10/31/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+研究放貸機器人撰寫可能性,,Yes,09/21/2025,Keith LI,No,
+Microservice Homework,,Yes,09/21/2025,Keith LI,No,Microservice (https://www.notion.so/Microservice-26e406f97007807b8944ed876f8145bd?pvs=21)
+"嘉印 - 接收的 API 站存 IoT 資料要可以設備 AssetCode ",,Yes,09/23/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+公益拍賣活動 - 活動資訊見內文 PDF 檔案,,No,12/06/2025,Keith LI,No,
+CSW6 冷热定型机,,Yes,10/14/2025 10:00 (GMT+8),Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+[ECL] Essential,,Yes,09/30/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,09/22/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,09/28/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,09/24/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+GitLab 在 Ubuntu Server 附載太重的問題 → 新裝 Server 之後搬移,,No,11/05/2025,Keith LI,No,
+進豐切割機 - 將 Aggregate API 整理好,,Yes,09/22/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"下採購單時的表頭公司添加 CDT  曾明明 - Content ",,Yes,09/25/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+廖顧問作業,,Yes,10/15/2025,Keith LI,No,
+GBOS Forward 新增 API 重發機制,,Yes,11/04/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+FineBI Competition communication,,Yes,10/25/2025 9:00 (GMT+8),Keith LI,No,
+AI Agent 報告前一天發信 PPT update,,Yes,09/25/2025 15:30 (GMT+8),Keith LI,No,
+GBOS Forward - CYW 廠假日/連假關機 - 導致隔天沒辦法接收資訊,,Yes,10/08/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+AI Agent 提案會議,,Yes,09/26/2025 15:00 (GMT+8),Keith LI,No,[DMS] AI Agent (https://www.notion.so/DMS-AI-Agent-22b406f9700780999811eb4d0a2307b0?pvs=21)
+稼動率 - 無運做設備統計 (可加上狀態標示),,No,11/10/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+FineBI 憑證問題 - 官方問題,,Yes,09/30/2025 10:00 (GMT+8),Keith LI,No,
+[DMS] 新人履歷,,Yes,09/30/2025,Keith LI,No,
+Cursor - 79.9 Points,,Yes,09/28/2025,Keith LI,No,Spaceship Titanic (Kaggle competition) (https://www.notion.so/Spaceship-Titanic-Kaggle-competition-262406f97007804abd4dfc0a576b42e2?pvs=21)
+[ECL] Essential,,Yes,10/05/2025 9:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,10/01/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,10/03/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+評估新 Linux Server 費用,,Yes,10/01/2025,Keith LI,No,
+IDM3普羅裁斷：開個會發會議紀錄要確認 IoT 可以接，因為之前氣壓發生過類似事情。,,Yes,10/08/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+[DMS] 新人履歷 - 采俐姐過省後發信,,Yes,10/08/2025,Keith LI,No,
+EMMA DB降到至少 1GB 後將規格調整回 5 DTU,,Yes,10/13/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+EMMA Apache NiFi Sync,,Yes,10/13/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+檢查稼動率總表資料有哪些設備已經接收稼動率 (EMMA ETL 同步完成之後),,Yes,10/14/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+Microservice 架構 - Domain 邏輯,,Yes,10/13/2025,Keith LI,No,Microservice (https://www.notion.so/Microservice-26e406f97007807b8944ed876f8145bd?pvs=21)
+廖顧問功課 - 建資料庫還有列表格,,Yes,10/13/2025,Keith LI,No,
+廖顧問功課 - 新增 EXCEL 匯入功能,,Yes,10/14/2025,Keith LI,No,
+Microservice Q&A - Contect,,Yes,10/14/2025 14:00 (GMT+8),Keith LI,No,Microservice (https://www.notion.so/Microservice-26e406f97007807b8944ed876f8145bd?pvs=21)
+[ECL] Essential,,Yes,10/14/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Essential,,Yes,10/16/2025 20:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,10/15/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+[ECL] Life Situation,,Yes,10/17/2025 19:00 (GMT+8),Keith LI,No,OEE Education (https://www.notion.so/OEE-Education-1ff406f9700780babc6afc2bf9e5786d?pvs=21)
+確認網頁開發語言 → Next Step (Python Backend),,Yes,10/13/2025,Keith LI,No,Trading Robots (MVP for Bitfinex) (https://www.notion.so/Trading-Robots-MVP-for-Bitfinex-27e406f970078081a7e8fa39ea04327e?pvs=21)
+進豐切割機假日突然暴漲運行時間問題 - Content,,Yes,10/23/2025,Keith LI,No,
+"將 AvailabilityIntegration 做更改 - content  ",,Yes,10/13/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+檢查 EMMA Table 遞增的 Sequence 有沒有跑起來 - 11005 開始,,Yes,10/14/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+AI Agent 討論會議,,Yes,10/15/2025,Keith LI,No,[DMS] AI Agent (https://www.notion.so/DMS-AI-Agent-22b406f9700780999811eb4d0a2307b0?pvs=21)
+FAS 新增申請單金額修改權限,,Yes,10/23/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+CYW GBOS 更新,,Yes,10/20/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+IDM3 - FAS 教學規劃,,Yes,10/23/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+幫姐帶褲子,,Yes,10/19/2025 9:00 (GMT+8),Keith LI,No,
+Flowise - from SQLite to PostgreSQL,,Yes,10/20/2025,Keith LI,No,[DMS] AI Agent (https://www.notion.so/DMS-AI-Agent-22b406f9700780999811eb4d0a2307b0?pvs=21)
+"測試 Flowise SQL Agent ",,Yes,10/21/2025,Keith LI,No,[DMS] AI Agent (https://www.notion.so/DMS-AI-Agent-22b406f9700780999811eb4d0a2307b0?pvs=21)
+測試直接塞 RAG,,Yes,10/21/2025,Keith LI,No,[DMS] AI Agent (https://www.notion.so/DMS-AI-Agent-22b406f9700780999811eb4d0a2307b0?pvs=21)
+IDM3 FAS System Meeting,,Yes,10/27/2025 9:30 (GMT+8),Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+測試,,Yes,10/25/2025,Keith LI,No,Trading Robots (MVP for Bitfinex) (https://www.notion.so/Trading-Robots-MVP-for-Bitfinex-27e406f970078081a7e8fa39ea04327e?pvs=21)
+"IDM3 GBOS 0000019833 查不到資料 ",,Yes,10/28/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+校友會,,No,11/06/2025 14:30 (GMT+8) → 15:30,Keith LI,No,
+[DMS] AI Agent一頁式報告 - renew,,Yes,10/30/2025,Keith LI,No,[DMS] AI Agent (https://www.notion.so/DMS-AI-Agent-22b406f9700780999811eb4d0a2307b0?pvs=21)
+把 EMMA IoT 8 個 Table 同步過去,,Yes,10/31/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+"簡道雲 同步 Microservice ",[DMS] 念慈 (Daisy),No,10/28/2025 9:00 (GMT+8) → 11/07/2025 9:00 (GMT+8),Keith LI,No,
+FAS IDM1 使用者反應 - 看內容,,No,11/07/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FAS - IDM3 回饋建議,,No,11/07/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+KDM EMMA 稼動率異常 - 放假結束,,No,11/07/2025,Keith LI,No,[DMS] IoT 稼動率接收 (https://www.notion.so/DMS-IoT-1ff406f970078042a01ae34082a40dcc?pvs=21)
+FAS 零件找 ERP 料號,,No,11/05/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
+FAS 申請單轉移到系統,,No,11/05/2025,Keith LI,No,[DMS] Fixed Assets Management System (https://www.notion.so/DMS-Fixed-Assets-Management-System-1ff406f9700780459d0deada6ab43161?pvs=21)
