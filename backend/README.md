@@ -1,76 +1,169 @@
-# Bitfinex Lending Bot - Backend API
+# Trading Robots Backend
+
+Bitfinex 放貸機器人後端 API。
+
+## 🏗️ 架構
+
+本專案採用 FastAPI 分層架構：
+
+- **API Layer** (`app/api/`) - 處理 HTTP 請求/響應
+- **Schema Layer** (`app/schemas/`) - 資料驗證和類型定義
+- **Service Layer** (`app/services/`) - 業務邏輯
+- **Model Layer** (`app/models/`) - 資料庫模型（SQLAlchemy ORM）
+
+## 📋 功能
+
+- ✅ 用戶認證（註冊、登入、Token 刷新）
+- ✅ 統一 API 響應格式 (`ApiResponse<T>`)
+- ✅ 類型一致性（與前端 TypeScript 類型對應）
+- ✅ 資料庫遷移（Alembic）
+- ✅ 測試框架（pytest）
 
 ## 🚀 快速開始
 
-### 1. 安裝依賴
+### 1. 環境設置
 
 ```bash
+# 創建虛擬環境
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+
+# 安裝依賴
 pip install -r requirements.txt
+pip install -r requirements-dev.txt
 ```
 
-### 2. 設置環境變數
-
-複製 `.env.example` 並創建 `.env` 文件：
+### 2. 配置環境變數
 
 ```bash
+# 複製範本
 cp .env.example .env
+
+# 編輯 .env（填入資料庫 URL、SECRET_KEY 等）
 ```
 
-編輯 `.env` 文件，填入你的配置。
-
-**重要：生成加密 Key**
-
-```python
-from cryptography.fernet import Fernet
-key = Fernet.generate_key()
-print(key.decode())  # 複製這個值到 ENCRYPTION_KEY
-```
+詳細說明請參考 [docs/SETUP.md](./docs/SETUP.md)
 
 ### 3. 初始化資料庫
 
 ```bash
-# 創建資料庫遷移（首次）
-alembic init alembic
-
-# 創建遷移文件
-alembic revision --autogenerate -m "Initial migration"
-
-# 執行遷移
+# 使用 Alembic 遷移
 alembic upgrade head
+
+# 或使用腳本（開發用）
+python scripts/init_db.py
 ```
 
-### 4. 運行服務
+### 4. 啟動服務器
 
 ```bash
-uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+uvicorn app.main:app --reload
 ```
 
-API 文檔將在 `http://localhost:8000/docs` 可用。
+訪問 http://localhost:8000/docs 查看 API 文檔。
 
-## 📡 API 端點
+## 📚 文檔
 
-### 認證
+- [環境設置指南](./docs/SETUP.md) - 完整的環境設置步驟
+- [架構說明](./docs/ARCHITECTURE.md) - 系統架構和設計原則
+- [API 設計規範](./docs/API_DESIGN.md) - API 設計最佳實踐
+- [資料庫設計](./docs/DATABASE.md) - 資料庫結構和使用指南
+- [類型對照表](./docs/TYPE_MAPPING.md) - TypeScript ↔ Python 類型對照
+- [開發指南](./docs/DEVELOPMENT.md) - 新手開發指南
+- [Code Review 檢查清單](./docs/CODE_REVIEW.md) - Code Review 規範
 
-- `POST /api/v1/auth/login` - 用戶登入
+## 🧪 測試
 
-### Dashboard
+```bash
+# 運行所有測試
+pytest
 
-- `GET /api/v1/dashboard/balance` - 獲取帳戶餘額
-- `GET /api/v1/dashboard/earnings` - 獲取收益資訊
-- `GET /api/v1/dashboard/loans` - 獲取借款狀況
-- `GET /api/v1/dashboard/account-info` - 獲取完整帳戶資訊
-- `GET /api/v1/dashboard/user-info` - 獲取 Bitfinex 用戶資訊
+# 運行特定測試
+pytest tests/test_auth.py
 
-## 🔐 認證
+# 查看覆蓋率
+pytest --cov=app
+```
 
-所有 Dashboard API 都需要 Bearer Token 認證：
+## 📁 專案結構
 
 ```
-Authorization: Bearer <your_jwt_token>
+backend/
+├── app/
+│   ├── api/              # API 路由層
+│   │   ├── auth.py      # Auth API
+│   │   ├── deps.py      # 共用依賴
+│   │   └── health.py    # 健康檢查
+│   ├── core/            # 核心基礎設施
+│   │   ├── config.py     # 配置
+│   │   ├── database.py  # 資料庫連接
+│   │   └── security.py  # 安全相關
+│   ├── models/          # ORM 模型
+│   │   ├── base.py      # Base Model
+│   │   ├── user.py      # User Model
+│   │   └── ...
+│   ├── schemas/         # Pydantic Schemas
+│   │   ├── common.py    # 統一響應格式
+│   │   ├── auth.py      # Auth Schemas
+│   │   └── ...
+│   └── services/        # 業務邏輯層
+│       ├── auth.py      # Auth Service
+│       └── ...
+├── tests/               # 測試
+├── alembic/             # 資料庫遷移
+├── docs/                # 文檔
+└── scripts/             # 輔助腳本
 ```
 
-## 📝 注意事項
+## 🔑 關鍵特性
 
-1. 確保 PostgreSQL 資料庫已安裝並運行
-2. 確保 Bitfinex API Key 和 Secret 已正確設置
-3. ENCRYPTION_KEY 必須是 32 bytes base64 編碼的字串
+### 統一響應格式
+
+所有 API 都使用 `ApiResponse<T>` 包裝：
+
+```python
+from app.schemas.common import success_response, error_response
+
+# 成功響應
+return success_response(data=user_data, message="Success")
+
+# 錯誤響應
+return error_response(code="ERROR_CODE", message="Error message")
+```
+
+### 類型一致性
+
+- Schema 使用 camelCase（透過 alias）對應前端 TypeScript 類型
+- 所有 Schema 都有 `🔗 對應 TypeScript` 註解
+- 詳細對照請參考 [TYPE_MAPPING.md](./docs/TYPE_MAPPING.md)
+
+### 認證機制
+
+- JWT Token 認證
+- Access Token + Refresh Token
+- 使用 `get_current_user` 依賴注入獲取當前用戶
+
+## 🛠️ 開發工具
+
+- **FastAPI** - Web 框架
+- **SQLAlchemy** - ORM
+- **Alembic** - 資料庫遷移
+- **Pydantic** - 資料驗證
+- **pytest** - 測試框架
+
+## 📝 開發規範
+
+- 遵循 [API 設計規範](./docs/API_DESIGN.md)
+- 遵循 [Code Review 檢查清單](./docs/CODE_REVIEW.md)
+- 參考 [開發指南](./docs/DEVELOPMENT.md) 添加新功能
+
+## 🤝 貢獻
+
+1. 創建功能分支：`git checkout -b feature/your-feature`
+2. 提交變更：`git commit -m "feat: add your feature"`
+3. 推送分支：`git push origin feature/your-feature`
+4. 創建 Pull Request
+
+## 📄 授權
+
+[授權資訊]

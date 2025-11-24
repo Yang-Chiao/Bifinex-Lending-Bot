@@ -18,14 +18,13 @@ def get_password_hash(password: str) -> str:
     return pwd_context.hash(password)
 
 
-def create_access_token(data: dict, expires_delta: Optional[timedelta] = None) -> str:
+def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):
     """創建 JWT Token"""
     to_encode = data.copy()
     if expires_delta:
         expire = datetime.utcnow() + expires_delta
     else:
-        expire = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)
-    
+        expire = datetime.utcnow() + timedelta(minutes=15)
     to_encode.update({"exp": expire})
     encoded_jwt = jwt.encode(to_encode, settings.SECRET_KEY, algorithm=settings.ALGORITHM)
     return encoded_jwt
@@ -42,19 +41,10 @@ def verify_token(token: str) -> Optional[dict]:
 
 def encrypt_api_key(api_key: str) -> str:
     """加密 API Key"""
-    key = settings.ENCRYPTION_KEY.encode()
-    # 確保 key 是 32 bytes base64
-    if len(key) != 44:  # Base64 encoded 32 bytes
-        # 如果長度不對，使用 Fernet.generate_key() 生成的 key
-        raise ValueError("ENCRYPTION_KEY must be a 32-byte base64-encoded key")
-    fernet = Fernet(key)
-    encrypted = fernet.encrypt(api_key.encode())
-    return encrypted.decode()
+    cipher = Fernet(settings.ENCRYPTION_KEY.encode())
+    return cipher.encrypt(api_key.encode()).decode()
 
-
-def decrypt_api_key(encrypted_api_key: str) -> str:
+def decrypt_api_key(encrypted_key: str) -> str:
     """解密 API Key"""
-    key = settings.ENCRYPTION_KEY.encode()
-    fernet = Fernet(key)
-    decrypted = fernet.decrypt(encrypted_api_key.encode())
-    return decrypted.decode()
+    cipher = Fernet(settings.ENCRYPTION_KEY.encode())
+    return cipher.decrypt(encrypted_key.encode()).decode()

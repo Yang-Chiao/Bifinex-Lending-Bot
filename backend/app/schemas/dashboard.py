@@ -1,13 +1,13 @@
+"""
+Dashboard Schemas
+
+從舊專案移植並調整為目前結構使用：
+- 提供帳戶餘額、收益、借款狀況與完整帳戶資訊的資料模型
+"""
+
 from pydantic import BaseModel
 from typing import Dict, List, Optional, Any
 from datetime import datetime
-
-
-class BalanceInfo(BaseModel):
-    """餘額資訊"""
-    currency: str
-    amount: float
-    wallet_type: str  # exchange, margin, funding
 
 
 class AccountBalance(BaseModel):
@@ -51,9 +51,11 @@ class EarningsInfo(BaseModel):
 
 class UserAccountInfo(BaseModel):
     """用戶帳戶完整資訊"""
-    user_id: int
+    user_id: str
     email: str
     balance: AccountBalance
     earnings: EarningsInfo
     loan_status: LoanStatus
     last_updated: datetime
+
+

@@ -1,0 +1,17 @@
+{
+  "name": "trading-robots",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev:backend": "cd apps/backend && python main.py",
+    "dev:backstage": "pnpm --filter backstage dev",
+    "dev:website": "pnpm --filter website dev",
+    "build:all": "pnpm -r build",
+    "clean": "pnpm -r clean && rm -rf node_modules"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
+

@@ -1,0 +1,21 @@
+{
+  "name": "@trading-robots/config",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    "./typescript/base": "./src/typescript/base.json",
+    "./typescript/node": "./src/typescript/node.json",
+    "./typescript/react": "./src/typescript/react.json",
+    "./tailwind": "./src/tailwind/base.config.js",
+    "./eslint/base": "./src/eslint/base.js",
+    "./eslint/react": "./src/eslint/react.js",
+    "./eslint/typescript": "./src/eslint/typescript.js",
+    "./prettier": "./src/prettier/index.js"
+  },
+  "files": ["src"],
+  "peerDependencies": {
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.0.0"
+  }
+}
+

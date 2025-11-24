@@ -7,21 +7,26 @@
 
 ### 核心功能
 - ✅ 自動掛單放貸
-- ✅ 多種策略（市場跟隨、階梯式）
+- ✅ 多種策略（市場跟隨、階梯式、固定利率）
 - ✅ 精美的 Web 管理後台
 - ✅ Telegram 即時通知
 - ✅ 支援多用戶
 
 ### 技術棧
 ```
-前端：React + TypeScript + shadcn/ui
-後端：FastAPI + PostgreSQL
-機器人：Python + APScheduler
+架構：Monorepo (pnpm workspace)
+前端：React 18 + TypeScript + Vite + shadcn/ui
+後端：FastAPI + PostgreSQL + Python 3.10+
+機器人：APScheduler + Bitfinex API v2
 ```
 
 ### 開發時程
 ```
-6-7 週完成 MVP（前後端並行開發）
+Plan 1（基礎設施）：✅ 已完成
+Plan 2（Backend）：準備中
+Plan 3（UI 組件庫）：✅ 已完成
+
+總時程：6-7 週完成 MVP（前後端並行開發）
 ```
 
 ---
@@ -101,44 +106,64 @@
 
 ## 🎬 第一天應該做什麼？
 
-### 如果你是前端開發者
-```bash
-# 1. Clone 專案（假設）
-git clone <repo>
-
-# 2. 安裝依賴
-cd frontend
-npm install
-
-# 3. 閱讀文檔
-讀 docs/04-frontend/structure.md
-讀 docs/05-backend/api-design.md
-
-# 4. 開始開發
-npm run dev
-```
-
-### 如果你是後端開發者
+### 1. 初始化專案（所有開發者）
 ```bash
 # 1. Clone 專案
 git clone <repo>
+cd TradingRobots
 
-# 2. 設置環境
-cd backend
+# 2. 安裝 pnpm（如果還沒有）
+npm install -g pnpm
+
+# 3. 安裝所有依賴（Monorepo）
+pnpm install
+
+# 4. 驗證類型檢查
+pnpm --filter @trading-robots/types typecheck
+```
+
+### 2. 如果你是前端開發者
+```bash
+# 閱讀文檔
+讀 docs/04-frontend/structure.md
+讀 docs/05-backend/api-design.md
+讀 packages/types/README.md
+
+# 查看可用的共用類型
+讀 packages/types/src/index.ts
+
+# 查看可用的 UI 組件
+讀 packages/ui/README.md
+讀 packages/ui/src/index.ts
+
+# 啟動前端（待建立）
+# pnpm dev:backstage
+# 或
+# pnpm dev:website
+```
+
+### 3. 如果你是後端開發者
+```bash
+# 設置 Python 環境
+cd apps/backend  # （待建立）
 python -m venv venv
-source venv/bin/activate
+source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-# 3. 閱讀文檔
+# 閱讀文檔
 讀 docs/05-backend/api-design.md
 讀 docs/06-database/schema.md
+讀 packages/types/README.md
 
-# 4. 設置資料庫
+# 查看 Bitfinex API 類型定義
+讀 packages/types/src/bitfinex/
+
+# 設置資料庫
 創建 PostgreSQL 資料庫
 alembic upgrade head
 
-# 5. 啟動開發服務器
-uvicorn app.main:app --reload
+# 啟動開發服務器
+pnpm dev:backend
 ```
 
 ### 如果你是專案經理
@@ -151,8 +176,16 @@ uvicorn app.main:app --reload
 
 ---
 
-## 📊 文檔完成度
+## 📊 專案與文檔完成度
 
+### 開發進度
+```
+基礎設施：  ████████████████████ 100% ✅ (Plan 1)
+Backend：   ░░░░░░░░░░░░░░░░░░░░   0% (Plan 2 準備中)
+UI 組件庫： ████████████████████ 100% ✅ (Plan 3)
+```
+
+### 文檔完成度
 ```
 核心文檔：█████████░ 90%
 開發階段：███░░░░░░░ 30%
@@ -163,7 +196,7 @@ uvicorn app.main:app --reload
 總體：████░░░░░░ 40%
 ```
 
-**已經可以開始開發了！** 🎉
+**基礎設施已完成，可以開始開發了！** 🎉
 
 ---
 

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Environments & tooling
+.venv/
+venv/
+.env
+*.env
+
+# Databases / data
+*.db
+*.sqlite
+*.sqlite3
+app.db
+
+# Node / frontend (如果有)
+node_modules/
+dist/
+build/
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

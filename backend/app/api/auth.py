@@ -1,52 +1,85 @@
-from fastapi import APIRouter, Depends, HTTPException, status, Form
-from fastapi.security import HTTPBearer
+"""
+Auth API Routes
+
+所有 API 都使用統一響應格式 ApiResponse
+
+🔗 對應前端 API：參考 docs/05-backend/api-design.md
+"""
+
+from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
-from datetime import timedelta
 from app.core.database import get_db
-from app.core.security import verify_password, get_password_hash, create_access_token
-from app.core.config import settings
-from app.models.user import User
-from app.schemas.user import UserCreate, UserResponse, Token
-from app.api.dependencies import get_current_user
+from app.schemas.auth import LoginRequest, LoginResponse, RegisterRequest
+from app.schemas.user import UserResponse
+from app.schemas.common import ApiResponse, success_response, error_response
+from app.services import auth as auth_service
 
-router = APIRouter(prefix="/auth", tags=["auth"])
-security = HTTPBearer()
+router = APIRouter()
 
-
-@router.post("/login", response_model=Token)
-async def login(
-    email: str = Form(...),
-    password: str = Form(...),
-    db: Session = Depends(get_db)
-):
-    """用戶登入"""
-    user = db.query(User).filter(User.email == email).first()
+@router.post("/register", response_model=ApiResponse[UserResponse])
+def register(request: RegisterRequest, db: Session = Depends(get_db)):
+    """
+    註冊新用戶
     
-    if not user or not verify_password(password, user.password_hash):
-        raise HTTPException(
-            status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="電子郵件或密碼錯誤",
-            headers={"WWW-Authenticate": "Bearer"},
+    對應 TypeScript API：POST /api/auth/register
+    請求：RegisterRequest（包含 confirmPassword）
+    響應：ApiResponse<User>
+    """
+    try:
+        user = auth_service.create_user(db, request.email, request.password)
+        return success_response(
+            data=UserResponse.model_validate(user),
+            message="User created successfully"
+        )
+    except HTTPException as e:
+        return error_response(
+            code="REGISTRATION_FAILED",
+            message=e.detail
+        )
+
+@router.post("/login", response_model=ApiResponse[LoginResponse])
+def login(request: LoginRequest, db: Session = Depends(get_db)):
+    """
+    用戶登入
+    
+    對應 TypeScript API：POST /api/auth/login
+    請求：LoginRequest
+    響應：ApiResponse<LoginResponse>（包含 accessToken 和 refreshToken）
+    """
+    user = auth_service.authenticate_user(db, request.email, request.password)
+    if not user:
+        return error_response(
+            code="INVALID_CREDENTIALS",
+            message="Incorrect email or password"
         )
     
-    if not user.is_active:
-        raise HTTPException(
-            status_code=status.HTTP_403_FORBIDDEN,
-            detail="用戶帳戶已被停用"
-        )
+    # 創建 Tokens
+    tokens = auth_service.create_tokens(str(user.id))
     
-    access_token_expires = timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)
-    access_token = create_access_token(
-        data={"sub": user.email},
-        expires_delta=access_token_expires
+    # 構建響應
+    login_response = LoginResponse(
+        accessToken=tokens["access_token"],
+        refreshToken=tokens["refresh_token"],
+        user=UserResponse.model_validate(user)
     )
     
-    return {"access_token": access_token, "token_type": "bearer"}
+    return success_response(
+        data=login_response,
+        message="Login successful"
+    )
 
-
-@router.get("/me", response_model=UserResponse)
-async def get_current_user_info(
-    current_user: User = Depends(get_current_user)
+@router.post("/refresh", response_model=ApiResponse[dict])
+def refresh_token(
+    refresh_token: str,
+    db: Session = Depends(get_db)
 ):
-    """獲取當前用戶資訊"""
-    return current_user
+    """
+    刷新 Access Token
+    
+    對應 TypeScript API：POST /api/auth/refresh
+    """
+    # TODO: 實作 refresh token 邏輯
+    # 1. 驗證 refresh token
+    # 2. 檢查用戶是否存在且活躍
+    # 3. 生成新的 access token
+    pass

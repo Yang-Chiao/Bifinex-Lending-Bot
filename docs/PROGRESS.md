@@ -1,6 +1,63 @@
-# 文檔創建進度
+# 專案開發進度
 
-最後更新：2025-11-04
+最後更新：2025-11-09
+
+## ✅ Plan 1: 核心基礎設施（已完成）
+
+### Monorepo 架構
+- [x] 根目錄配置（package.json、pnpm-workspace.yaml、.gitignore）
+- [x] packages/config - 共用配置包（TypeScript、Tailwind、ESLint、Prettier）
+- [x] packages/types - 共用類型定義包
+- [x] 所有類型符合 Bitfinex API v2 (2025/11/9) 規範
+- [x] ECMAScript 版本更新至 ES2024
+
+### 交付物
+- ✅ Monorepo 結構完整
+- ✅ 共用配置可被引用
+- ✅ TypeScript 類型定義完整
+- ✅ Bitfinex API 類型完全符合最新規範
+- ✅ 文檔更新完畢
+
+---
+
+## ✅ Plan 3: UI 組件庫（已完成）
+
+### 專案結構
+- [x] packages/ui - UI 組件庫專案初始化
+- [x] TypeScript 配置（extends config/react.json）
+- [x] Tailwind CSS 配置（擴展共用主題）
+- [x] Vite 構建配置
+
+### 基礎 UI 組件
+- [x] Button - 按鈕組件（多種變體和尺寸）
+- [x] Card - 卡片組件（Header、Content、Footer）
+- [x] Input - 輸入框組件
+- [x] Badge - 標籤組件（狀態指示）
+- [x] Dialog - 對話框組件（基於 Radix UI）
+- [x] Table - 表格組件（Header、Body、Row、Cell）
+
+### 業務組件
+- [x] StatCard - 統計卡片（支援趨勢、圖標、多種格式）
+- [x] StrategyCard - 策略卡片（顯示策略信息、支援編輯和切換）
+- [x] LoanHistoryTable - 放貸歷史表格（完整格式化）
+- [x] RateDisplay - 利率顯示（多種尺寸、趨勢顏色）
+
+### 工具函數
+- [x] cn - Tailwind 類名合併工具
+- [x] formatCurrency - 金額格式化
+- [x] formatPercent - 百分比格式化
+- [x] formatDate - 日期格式化
+
+### 交付物
+- ✅ 6 個基礎 UI 組件
+- ✅ 4 個業務組件
+- ✅ 所有組件使用 Plan 1 的類型定義
+- ✅ 完整的 TypeScript 類型支援
+- ✅ 統一的設計系統
+- ✅ 類型檢查通過
+- ✅ 完整的 README 文檔
+
+---
 
 ## ✅ 已完成的文檔
 
@@ -59,6 +116,14 @@
 
 ## 📊 完成進度統計
 
+### 開發進度
+```
+Plan 1（基礎設施）：█████████████████████ 100% ✅
+Plan 2（Backend）：   ░░░░░░░░░░░░░░░░░░░░░   0%
+Plan 3（UI 組件庫）：  █████████████████████ 100% ✅
+```
+
+### 文檔進度
 ```
 總文檔數：29
 已完成：  9 (31%)
@@ -67,7 +132,50 @@
 
 ---
 
-## 🎯 下一步建議
+## 🎯 下一步計劃
+
+### Plan 2: Backend 架構與 API（準備中）
+**依賴**：Plan 1 ✅
+
+建議內容：
+1. Backend 專案結構（FastAPI + Python）
+2. 核心 API 端點實作
+3. Bitfinex API 整合
+4. 資料庫連接與 ORM
+5. 認證與授權中間件
+
+### Plan 3: UI 組件庫 ✅ 已完成
+**依賴**：Plan 1 ✅
+
+完成內容：
+1. ✅ 基礎 UI 組件（Button、Card、Input、Badge、Dialog、Table）
+2. ✅ 業務組件（StatCard、StrategyCard、LoanHistoryTable、RateDisplay）
+3. ✅ 工具函數庫（cn、格式化函數）
+4. ✅ 設計系統（基於 shadcn/ui + Tailwind）
+5. ✅ TypeScript 類型定義
+6. ✅ 完整文檔
+
+### Plan 4: Backstage 管理後台（準備中）
+**依賴**：Plan 1 ✅、Plan 3 ✅
+
+建議內容：
+1. Backstage 應用初始化
+2. 使用 @trading-robots/ui 組件庫
+3. 實作核心頁面（Dashboard、Strategies、Loans）
+4. API 整合（與 Plan 2 並行）
+
+### Plan 5: Website 用戶網站（準備中）
+**依賴**：Plan 1 ✅、Plan 3 ✅
+
+建議內容：
+1. Website 應用初始化
+2. 使用 @trading-robots/ui 組件庫
+3. 實作用戶頁面
+4. API 整合（與 Plan 2 並行）
+
+---
+
+## 🎯 文檔補充建議
 
 ### 優先級 P0（立即需要）
 如果要**立即開始開發**，建議先創建：

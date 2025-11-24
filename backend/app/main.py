@@ -1,39 +1,29 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
-from app.api import auth, dashboard
+from app.api import auth, health, dashboard
 
 app = FastAPI(
-    title=settings.PROJECT_NAME,
-    description="Bitfinex Lending Bot API",
-    version="1.0.0"
+    title="Trading Robots API",
+    version="1.0.0",
+    description="Bitfinex 放貸機器人 API",
 )
 
-# CORS 配置
+# CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=settings.CORS_ORIGINS,
+    allow_origins=settings.ALLOWED_ORIGINS,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# 註冊路由
-app.include_router(auth.router, prefix=settings.API_V1_STR)
-app.include_router(dashboard.router, prefix=settings.API_V1_STR)
+# 路由
+app.include_router(health.router, prefix="/api", tags=["Health"])
+app.include_router(auth.router, prefix="/api/auth", tags=["Auth"])
+app.include_router(dashboard.router, prefix="/api", tags=["Dashboard"])
 
+if __name__ == "__main__":
+    import uvicorn
 
-@app.get("/")
-async def root():
-    """根路徑"""
-    return {
-        "message": "Bitfinex Lending Bot API",
-        "version": "1.0.0",
-        "docs": "/docs"
-    }
-
-
-@app.get("/health")
-async def health_check():
-    """健康檢查"""
-    return {"status": "healthy"}
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
